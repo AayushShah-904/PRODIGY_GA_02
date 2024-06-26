@@ -5,3 +5,5 @@ Stable Diffusion is a method for creating images from text descriptions using AI
 3. **Final Image**: After several steps, the noise is removed, and the image matches the text prompt.
 
 It's like sculpting a statue from a block of marble, starting rough and gradually refining the details until it looks like the desired image.
+
+Link: https://openart.ai/create
